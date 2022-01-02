@@ -32,5 +32,4 @@ Navigate to the corresponding directory in your terminal and run npm test
 If you have any questions about the project, please feel free to message at kaylaworth999@gmail.com, or connect with me on GitHub: kworth999
 
 ### Links
-Walkthrough video
-Repository: 
+Github Repository: https://github.com/kworth999/team-profile-generator
